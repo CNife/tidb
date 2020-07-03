@@ -61,3 +61,5 @@ require (
 )
 
 go 1.13
+
+replace github.com/pingcap/parser v0.0.0-20200525110646-f45c2cee1dca => github.com/CNife/parser v0.0.0-20200703094657-3824e8b47fdd
